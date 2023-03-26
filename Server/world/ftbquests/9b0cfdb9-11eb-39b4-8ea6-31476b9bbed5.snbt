@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "9b0cfdb911eb39b48ea631476b9bbed5"
+	name: "tout"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1676318904353L
+		159872B988A173AA: 1676318904353L
+		731686C758AD9A99: 1676318904353L
+		0000000000000001: 1676318904353L
+	}
+	completed: {
+		159872B988A173AA: 1676318904353L
+		731686C758AD9A99: 1676318904353L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

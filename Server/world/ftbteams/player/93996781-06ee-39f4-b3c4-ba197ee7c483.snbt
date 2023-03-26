@@ -1,0 +1,24 @@
+{
+	id: "93996781-06ee-39f4-b3c4-ba197ee7c483"
+	type: "player"
+	player_name: "arthur_dec"
+	ranks: {
+		93996781-06ee-39f4-b3c4-ba197ee7c483: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "arthur_dec"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

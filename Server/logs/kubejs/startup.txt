@@ -1,0 +1,70 @@
+[11:46:53] [INFO ] Loaded script startup_scripts:custom_additions.js in 0.191 s
+[11:46:53] [INFO ] Loaded script startup_scripts:settings.js in 0.033 s
+[11:46:54] [INFO ] Loaded script startup_scripts:worldgen.js in 0.018 s
+[11:46:54] [INFO ] Loaded 3/3 KubeJS startup scripts in 0.875 s
+[11:48:33] [INFO ] Features with type 'raw_generation' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/raw_generation]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_raw_generation]
+[11:48:33] [INFO ] Features with type 'lakes' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/lakes]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_lakes]
+[11:48:33] [INFO ] Features with type 'local_modifications' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/local_modifications]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_local_modifications]
+[11:48:33] [INFO ] Features with type 'underground_structures' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/underground_structures]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:rogue_spawner]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:rogue_spawner_deep]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:boss_dungeon_2_deep]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:boss_dungeon]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:boss_dungeon_2]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_underground_structures]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / apotheosis:boss_dungeon_deep]
+[11:48:33] [INFO ] Features with type 'surface_structures' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/surface_structures]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_surface_structures]
+[11:48:33] [INFO ] Features with type 'strongholds' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/strongholds]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_strongholds]
+[11:48:33] [INFO ] Features with type 'underground_ores' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/underground_ores]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / croptopia:disk_salt_configured]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:apatite_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_iridium_large]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_iridium_buried]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_tin_upper]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_tin_small]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_lead_small]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_uranium_extra]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_aluminum_upper]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_iridium]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_aluminum_small]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_lead_middle]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_uranium]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_aluminum_middle]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_lead_upper]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_uranium_lower]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / ftbic:ore_tin_middle]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_underground_ores]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:lead_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:nickel_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:sulfur_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:silver_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:niter_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:cinnabar_ore]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / thermal:tin_ore]
+[11:48:33] [INFO ] Features with type 'underground_decoration' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/underground_decoration]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_underground_decoration]
+[11:48:33] [INFO ] Features with type 'fluid_springs' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/fluid_springs]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_fluid_springs]
+[11:48:33] [INFO ] Features with type 'vegetal_decoration' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/vegetal_decoration]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / croptopia:random_crop]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / waystones:waystone]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_vegetal_decoration]
+[11:48:33] [INFO ] Features with type 'top_layer_modification' in biome 'Optional[minecraft:the_void]':
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / minecraft:void_start_platform]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / byg:global/top_layer_modification]
+[11:48:33] [INFO ] - ResourceKey[minecraft:worldgen/placed_feature / quark:deferred_feature_top_layer_modification]

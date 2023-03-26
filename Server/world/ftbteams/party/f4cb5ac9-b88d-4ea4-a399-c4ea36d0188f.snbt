@@ -1,0 +1,24 @@
+{
+	id: "f4cb5ac9-b88d-4ea4-a399-c4ea36d0188f"
+	type: "party"
+	owner: "a0bbf0f0-ca6a-3b10-a50f-f6188784d5d3"
+	ranks: {
+		a0bbf0f0-ca6a-3b10-a50f-f6188784d5d3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "yess"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F6"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 1b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1676234378140L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Leotike\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
+	extra: { }
+}

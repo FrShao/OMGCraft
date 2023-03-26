@@ -1,0 +1,28 @@
+{
+	id: "d6b788c3-67ee-4cdb-bf21-42ddde9e9b25"
+	type: "party"
+	owner: "82c87c19-e28d-3718-b27e-450208905a47"
+	ranks: {
+		d92c6f75-b9e6-3672-bdc8-e8d49f6182f7: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "SHAO"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676129247988L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Smoother23\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "82c87c19-e28d-3718-b27e-450208905a47", date: 1676146013340L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nether05\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676146117566L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Smoother23\"}]}" }
+	]
+	extra: { }
+}

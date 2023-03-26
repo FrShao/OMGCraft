@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "d92c6f75b9e63672bdc8e8d49f6182f7"
+	name: "Nether05"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1676055603027L
+		159872B988A173AA: 1676055603027L
+		731686C758AD9A99: 1676055603027L
+		0000000000000001: 1676055603027L
+	}
+	completed: {
+		159872B988A173AA: 1676055603027L
+		731686C758AD9A99: 1676055603027L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "3e317bdbf88d3c76941110e58b7f8523"
+	name: "salimmm"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1676114791282L
+		159872B988A173AA: 1676114791282L
+		731686C758AD9A99: 1676114791282L
+		0000000000000001: 1676114791282L
+	}
+	completed: {
+		159872B988A173AA: 1676114791282L
+		731686C758AD9A99: 1676114791282L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

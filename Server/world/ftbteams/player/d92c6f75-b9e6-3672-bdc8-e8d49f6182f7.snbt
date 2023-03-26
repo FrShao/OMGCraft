@@ -1,0 +1,22 @@
+{
+	id: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7"
+	type: "player"
+	player_name: "Nether05"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Nether05"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

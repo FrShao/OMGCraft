@@ -1,0 +1,24 @@
+{
+	id: "d0c2a0de-e7d9-3fe4-a3e3-577887852b2e"
+	type: "player"
+	player_name: "Jean"
+	ranks: {
+		d0c2a0de-e7d9-3fe4-a3e3-577887852b2e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jean"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

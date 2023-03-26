@@ -1,0 +1,52 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1679219455243L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 355, z: -25, time: 1676967947748L }
+			{ x: 355, z: -24, time: 1676967947748L }
+			{ x: 355, z: -23, time: 1676967947748L }
+			{ x: 355, z: -22, time: 1676967954415L }
+			{ x: 355, z: -29, time: 1676967952606L }
+			{ x: 355, z: -28, time: 1676967947748L }
+			{ x: 355, z: -27, time: 1676967947748L, force_loaded: 1677775695316L }
+			{ x: 355, z: -26, time: 1676967947748L, force_loaded: 1677775697853L }
+			{ x: 354, z: -26, time: 1676967950096L }
+			{ x: 354, z: -25, time: 1676967950096L }
+			{ x: 354, z: -28, time: 1676967951481L }
+			{ x: 354, z: -27, time: 1676967951481L }
+			{ x: 357, z: -31, time: 1676967947748L, force_loaded: 1677775703723L }
+			{ x: 357, z: -30, time: 1676967947748L, force_loaded: 1677775703434L }
+			{ x: 357, z: -29, time: 1676967947748L, force_loaded: 1677775693769L }
+			{ x: 357, z: -28, time: 1677251050983L, force_loaded: 1677775691005L }
+			{ x: 357, z: -27, time: 1676967947748L, force_loaded: 1677775697306L }
+			{ x: 356, z: -32, time: 1677157580714L, force_loaded: 1677775700310L }
+			{ x: 356, z: -31, time: 1676967947748L }
+			{ x: 356, z: -30, time: 1676967947748L }
+			{ x: 356, z: -29, time: 1676967947748L, force_loaded: 1677775693473L }
+			{ x: 356, z: -33, time: 1677157580515L, force_loaded: 1677775699203L }
+			{ x: 356, z: -24, time: 1676967947748L }
+			{ x: 356, z: -23, time: 1676967947748L }
+			{ x: 356, z: -28, time: 1676967947748L, force_loaded: 1677775693157L }
+			{ x: 356, z: -27, time: 1676967947748L, force_loaded: 1677775694956L }
+			{ x: 356, z: -26, time: 1676967947748L, force_loaded: 1677775698154L }
+			{ x: 356, z: -25, time: 1676967947748L }
+			{ x: 358, z: -30, time: 1676967947748L, force_loaded: 1677775703124L }
+			{ x: 358, z: -29, time: 1676967953310L }
+			{ x: 358, z: -31, time: 1676967947748L }
+		]
+		"allthemodium:mining": [{ x: 356, z: -27, time: 1676988174418L }]
+		"minecraft:the_nether": [
+			{ x: 44, z: -4, time: 1676967927194L }
+			{ x: 44, z: -3, time: 1676967927570L }
+		]
+	}
+	member_data: {
+		93996781-06ee-39f4-b3c4-ba197ee7c483: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}

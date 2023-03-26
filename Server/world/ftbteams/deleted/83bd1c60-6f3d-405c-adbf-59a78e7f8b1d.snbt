@@ -1,0 +1,29 @@
+{
+	id: "83bd1c60-6f3d-405c-adbf-59a78e7f8b1d"
+	type: "party"
+	owner: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7"
+	ranks: {
+		82c87c19-e28d-3718-b27e-450208905a47: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "ShaoTeam"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5961FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676056944629L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Nether05\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7", date: 1676129473215L, text: "{\"text\":\"äSD\"}" }
+		{ from: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7", date: 1676133834817L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Smoother23\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676146191943L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nether05\"}]}" }
+	]
+	extra: { }
+}

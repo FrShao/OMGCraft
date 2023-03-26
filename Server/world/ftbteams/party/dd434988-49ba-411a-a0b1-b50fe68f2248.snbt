@@ -1,0 +1,36 @@
+{
+	id: "dd434988-49ba-411a-a0b1-b50fe68f2248"
+	type: "party"
+	owner: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7"
+	ranks: {
+		d92c6f75-b9e6-3672-bdc8-e8d49f6182f7: "owner"
+		93996781-06ee-39f4-b3c4-ba197ee7c483: "ally"
+		480d5f8b-3155-35b0-ab4e-739f437a3cf4: "ally"
+		82c87c19-e28d-3718-b27e-450208905a47: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "smooth"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5978"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676146267271L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Smoother23\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "82c87c19-e28d-3718-b27e-450208905a47", date: 1676146267278L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nether05\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1676146269471L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Nether05\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7", date: 1676149974373L, text: "{\"text\":\"t moche\"}" }
+		{ from: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7", date: 1676210012108L, text: "{\"text\":\"ooooooooooo\"}" }
+		{ from: "82c87c19-e28d-3718-b27e-450208905a47", date: 1676214935297L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Eizen_724\"}]}" }
+		{ from: "82c87c19-e28d-3718-b27e-450208905a47", date: 1676919666388L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"insertion\":\"Nether05\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell Nether05 \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"d92c6f75-b9e6-3672-bdc8-e8d49f6182f7\",\"name\":{\"text\":\"Nether05\"}}},\"extra\":[{\"text\":\"Nether05\"}],\"text\":\"\"}]}" }
+		{ from: "d92c6f75-b9e6-3672-bdc8-e8d49f6182f7", date: 1676987202818L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"arthur_dec\"}]}" }
+	]
+	extra: { }
+}
